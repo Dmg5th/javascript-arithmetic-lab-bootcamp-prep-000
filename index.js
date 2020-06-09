@@ -16,6 +16,6 @@ function increment(n) {
 function decrement(n) {
   return n-=1 
 }
-parseInt (n, 10) {
-  return NaN
+function makeInt (n, 10) {
+  return parseInt(n,10)
 }
